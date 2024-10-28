@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    .container {
+        width: 90%;
+        margin: 20px;
+    }
+    .informations {
+        padding: 15px;
+    }
+}
